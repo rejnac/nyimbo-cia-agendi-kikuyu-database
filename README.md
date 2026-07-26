@@ -6,6 +6,8 @@ The repository contains all the 299 Nyimbo Cia Agendi hymnal lyrics in Kikuyu la
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
+Nyimbo Cia Agendi is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+
 # Links to related projects
 
 1. Dholuo: https://tinyurl.com/rejnac-wende
@@ -21,7 +23,5 @@ You can support us in correcting errors or donating towards a team of dedicated 
 * M-Pesa: +254713860652 
 
 "Preserving the Heritage of SDA worship materials" is our ultimate goal!
-
-Nyimbo Cia Agendi is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
