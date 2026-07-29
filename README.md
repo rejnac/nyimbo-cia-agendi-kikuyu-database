@@ -14,6 +14,7 @@ Nyimbo Cia Agendi is part of several other databases and lyrics based projects t
 2. Swahili: https://tinyurl.com/rejnac-nyimbo
 3. SDAH: https://tinyurl.com/rejnac-sdah
 4. Ekegusii: https://tinyurl.com/rejnac-ogotera
+5. Chichewa: https://tinyurl.com/rejnac-chichewa
    
 
 # Donation contacts
