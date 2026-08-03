@@ -11,7 +11,7 @@ Nyimbo Cia Agendi is part of several other databases and lyrics based projects t
 # Our mission
 Making SDA Worship Material accessible to everyone.
 
-# Donation contacts
+# Donate
 
 * Paypal: info@rejnac.com 
 * M-Pesa: +254713860652
