@@ -1,6 +1,5 @@
 # Nyimbo Cia Agendi from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains all the 299 Nyimbo Cia Agendi hymnal lyrics in Kikuyu language also called Gikuyu.
 
