@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains all the 299 Nyimbo Cia Agendi hymnal lyrics in Kikuyu language also called Gikuyu.
 
-Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclaimer: The songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Nyimbo Cia Agendi is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
