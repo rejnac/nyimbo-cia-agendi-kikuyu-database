@@ -7,7 +7,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 
 Nyimbo Cia Agendi is part of several other SDA music lyrics under refinement in different languages. 
 
-#Mission
+# Mission
 Making SDA worship material accessible to everyone.
 
 
