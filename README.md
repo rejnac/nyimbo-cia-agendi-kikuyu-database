@@ -5,7 +5,7 @@ The repository contains all the 299 Nyimbo Cia Agendi hymnal lyrics in Kikuyu la
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Nyimbo Cia Agendi is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+Nyimbo Cia Agendi is part of several other SDA music lyrics under refining in different languages. 
 
 #Mission
 Making SDA worship material accessible to everyone.
